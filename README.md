@@ -19,9 +19,9 @@ To run this project, follow these simple steps:
 3. Compile and Run: Compile and run the application to experience it in action.
 
 Usage: 
-Explore departing flights effortlessly:
-Hover: Hover the mouse cursor over a location to view at-a-glance flight information.
-Double-Click: Double-click on a location to access comprehensive flight data.
+Explore departing flights effortlessly.
+1.Hover: Hover the mouse cursor over a location to view at-a-glance flight information.
+2.Double-Click: Double-click on a location to access comprehensive flight data.
 
 Acknowledgments
 I want to express my gratitude to my professors and fellow students for their valuable support and guidance throughout the development of this project.
