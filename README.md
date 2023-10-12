@@ -18,7 +18,7 @@ To run this project, follow these simple steps:
 2. Open in Eclipse IDE: Import the project into your preferred Java development environment, such as Eclipse IDE.
 3. Compile and Run: Compile and run the application to experience it in action.
 
-Usage
+Usage: 
 Explore departing flights effortlessly:
 Hover: Hover the mouse cursor over a location to view at-a-glance flight information.
 Double-Click: Double-click on a location to access comprehensive flight data.
